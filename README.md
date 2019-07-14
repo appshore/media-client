@@ -1,7 +1,6 @@
 
 # Media search - client side
 
-#Client (React)
 - React application
 - Port 3000
 - Launch server first
