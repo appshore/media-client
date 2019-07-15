@@ -17,7 +17,7 @@ class App extends React.Component {
   }
 
   search(results) {
-    this.setState({ images: results.images, video: results.video && results.video[0] });
+    this.setState({ images: results.images, video: results.video});
   }
 
   render() {
